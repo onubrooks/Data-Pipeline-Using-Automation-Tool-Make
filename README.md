@@ -30,7 +30,7 @@ This pipeline showcases the capabilities of Make.com to orchestrate data process
 
 ### Demo Video
 
-A demo video can be found [here(https://www.loom.com/share/d3b24d6d501948fcaee1d11a1406b0cd?sid=8a89999d-151e-4521-b2ba-85d6108d5ff8)]: <https://www.loom.com/share/d3b24d6d501948fcaee1d11a1406b0cd?sid=8a89999d-151e-4521-b2ba-85d6108d5ff8>
+A demo video can be found here: <https://www.loom.com/share/d3b24d6d501948fcaee1d11a1406b0cd?sid=8a89999d-151e-4521-b2ba-85d6108d5ff8>
 
 ### Scenarios
 
