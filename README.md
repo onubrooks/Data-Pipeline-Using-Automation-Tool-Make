@@ -26,7 +26,7 @@ This pipeline showcases the capabilities of Make.com to orchestrate data process
 
 ### Make Workflow Diagram
 
-<img width="1360" alt="Screenshot 2024-10-16 at 16 03 46" src="https://github.com/user-attachments/assets/57268552-e024-464f-bcea-bc52f2cfdfa4">
+<img width="1360" alt="Make.com Workflow Screenshot" src="https://github.com/user-attachments/assets/57268552-e024-464f-bcea-bc52f2cfdfa4">
 
 ### Demo Video
 
