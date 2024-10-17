@@ -4,7 +4,8 @@ In this repo, I demonstrate how an automation platform like Make or Zappier can 
 
 ## Data Pipeline for CDC.gov Dataset using Make.com
 
-<img width="1281" alt="Screenshot 2024-10-16 at 16 04 30" src="https://github.com/user-attachments/assets/d5858404-6aaf-474a-9fb1-8a1fdb18c599">
+
+<img width="1281" alt="Make Workflow Screenshot" src="https://github.com/user-attachments/assets/d5858404-6aaf-474a-9fb1-8a1fdb18c599">
 
 
 This project demonstrates an automated data pipeline built using Make.com to fetch, clean, transform, and load data from the CDC.gov Public Health Emergency Response Data Catalog ([link](https://dev.socrata.com/foundry/data.cdc.gov/fhky-rtsk)).
@@ -19,15 +20,13 @@ This pipeline showcases the capabilities of Make.com to orchestrate data process
 * **Iterate and Insert:** A flow control module iterates through each data row and inserts it into an Amazon Redshift data warehouse using a Redshift module.
 * **Data Quality Check:** Another Redshift module performs basic null checks on the loaded data.
 
-### Architecture Diagram (Replace with your image)
+### Architecture Diagram
 
 [Image of Pipeline Architecture Diagram Here]![CDC HEALTH VACCINE DATA PIPELINE](https://github.com/user-attachments/assets/198b9c8d-0114-44e7-aff1-b796174b9b53)
 
+### Make Workflow Diagram
 
-### Make Workflow Diagram (Replace with your image)
-
-[Image of Make Workflow Diagram Here]<img width="1360" alt="Screenshot 2024-10-16 at 16 03 46" src="https://github.com/user-attachments/assets/57268552-e024-464f-bcea-bc52f2cfdfa4">
-
+<img width="1360" alt="Screenshot 2024-10-16 at 16 03 46" src="https://github.com/user-attachments/assets/57268552-e024-464f-bcea-bc52f2cfdfa4">
 
 ### Scenarios
 
